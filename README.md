@@ -9,3 +9,6 @@
 配合下载后的md转换为word可以方便解析到云文档（例如飞书）
 
 即可实现类似于语雀转飞书需求。
+
+
+yuque_document_download经过本人修改，只需要在该程序目录下修改host.txt即可控制登录的空间，例如语雀登录的空间地址：https://www.yuque.com，host中填写https://immc.yuque.com即可
