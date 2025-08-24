@@ -219,8 +219,8 @@ class MarkdownToWordConverter:
 
 if __name__ == "__main__":
     # 配置路径
-    input_dir = r"C:\Users\ASUS\Desktop\yuque_document_download-main\docs"  # 替换为您的输入目录
-    output_dir = r"C:\Users\ASUS\Desktop\yuque_document_download-main\output"  # 替换为您的输出目录
+    input_dir = r"docs"  # 替换为您的输入目录
+    output_dir = r"output"  # 替换为您的输出目录
 
     # 执行转换
     converter = MarkdownToWordConverter(input_dir, output_dir)
